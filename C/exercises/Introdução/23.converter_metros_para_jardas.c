@@ -1,4 +1,4 @@
-/* Leia um valor de compriemtno em metros e apresente-o convertido em jardas. A fórmula de conversão é: J = M/0.91, sendo J o comprimento em jardas e M o comprimento em metros. */
+/* Leia um valor de comprimetno em metros e apresente-o convertido em jardas. A fórmula de conversão é: J = M/0.91, sendo J o comprimento em jardas e M o comprimento em metros. */
 
 #include <stdio.h>
 
